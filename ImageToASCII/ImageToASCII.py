@@ -1,5 +1,5 @@
 ################################
-####GRUPO2: TRANSFORMACION DE###
+####MARCELO OYANEDER LABARCA####
 ########IMAGEN A ASCII##########
 ################################
 
